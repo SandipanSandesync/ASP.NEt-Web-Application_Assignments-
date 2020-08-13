@@ -1,0 +1,6 @@
+ASSIGNMENT
+Date-13/08/2020
+
+1.Update Insert Delete Using a)Single Quote,Double Quote
+		             b)Parameter
+		             c)Stored Procedure
